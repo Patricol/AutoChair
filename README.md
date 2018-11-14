@@ -20,4 +20,4 @@ The concept is pitched in more detail in this [proposal](https://drive.google.co
 * if running on a real device, physical NFC tags can be used instead of the profiles
 
 
-
+![screenshot](https://raw.githubusercontent.com/Patricol/AutoChair/master/screenshots/basic.png)
