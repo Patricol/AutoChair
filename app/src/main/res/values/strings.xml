@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AutoChair</string>
+    <string name="adjust">Adjust</string>
+    <string name="scan_tag">Scan Tag</string>
+    <string name="raise_temperature">Raise</string>
+    <string name="lower_temperature">Lower</string>
+    <string name="spinner_explanation">Note: selecting a value in the spinner acts as the user standing up, changing NFC tags, and sitting down again.</string>
+    <string name="scan">Scan:</string>
+    <string name="default_ambient">Ambient: ??°?</string>
+    <string name="default_database">Database: ??°? (may be cached)</string>
+    <string name="default_tag">Tag: ?</string>
+    <string name="ambient_temp">Ambient: %.1f°F</string>
+    <string name="database_temp">Database: %d°F (may be cached)</string>
+    <string name="set_tag">Tag: %s</string>
+
+    <string-array name="tags">
+        <item>No Tag</item>
+        <item>Tag #1</item>
+        <item>Tag #2</item>
+    </string-array>
+    <string name="default_temp">\??°?</string>
+</resources>
